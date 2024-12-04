@@ -3,4 +3,7 @@ div
     background-color: blue;
     width: 200px;
     height: 500px;
+    padding: 50px;
+    margin: 40px;
+    font-style: oblique;
 }
